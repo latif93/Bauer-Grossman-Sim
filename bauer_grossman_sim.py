@@ -1,4 +1,4 @@
-#Otto Bauer Reproduction Scheme (Extended By Henryk Grossman) Sim
+#Bauer-Grossman Reproduction Scheme Sim
 
 c0 = 200000 #initial constant capital
 v0 = 100000 #initial variable capital
